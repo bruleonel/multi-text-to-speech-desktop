@@ -130,3 +130,12 @@ Este projeto é de uso livre para estudos e projetos pessoais.
 ## 🙌 Autor
 
 Desenvolvido por **Bruna Leonel** 💙
+
+
+
+## ⬇️ Download (versão mais recente)
+
+👉 **[Clique aqui para baixar o executável (.exe)](https://github.com/bruleonel/multi-text-to-speech-desktop/releases/download/v0.1.0/app.exe)**
+
+
+
