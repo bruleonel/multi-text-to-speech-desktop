@@ -135,7 +135,7 @@ Desenvolvido por **Bruna Leonel** 💙
 
 ## ⬇️ Download (versão mais recente)
 
-👉 **[Clique aqui para baixar o executável (.exe)](https://github.com/bruleonel/multi-text-to-speech-desktop/releases/download/v0.1.0/app.exe)**
+👉 **[Clique aqui para baixar o executável (.exe)](https://github.com/bruleonel/multi-text-to-speech-desktop/releases/download/v0.1.1/app.exe)**
 
 
 
